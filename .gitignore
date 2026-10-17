@@ -1,0 +1,9 @@
+# macOS specific files
+.DS_Store
+
+# Standard cell libraries (I will get in trouble if i upload this)
+N16ADFP_StdCell.v
+
+# Iverilog simultion files
+a.out
+tb.vcd
